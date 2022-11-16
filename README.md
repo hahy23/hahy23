@@ -1,6 +1,4 @@
-<image src='images/python.jpg'   hight = 200 width = 200>
-
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=egg&color=00FF00&&height=300&section=header&text=깃허브%20특강&fontSize=90)
 
 [![*'s githubstats](https://github-readme-stats.vercel.app/api?username=hahy23)](https://github.com/hahy23)
 
@@ -14,18 +12,6 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
 
-
-'''
-print("파이썬 공부중 입니다.")
-'''
-
-😏
-
-
-
 # Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
----
+
+
